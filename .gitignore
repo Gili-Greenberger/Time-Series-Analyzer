@@ -1,0 +1,30 @@
+# === Python compiled / cache files ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === Virtual environment ===
+.venv/
+env/
+venv/
+ENV/
+
+# === IDE / Editor settings ===
+.vscode/
+.idea/
+*.swp
+
+# === Logs & temp files ===
+*.log
+*.tmp
+
+# === Data files (large / generated) ===
+*.csv
+*.parquet
+*.xlsx
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+desktop.ini
